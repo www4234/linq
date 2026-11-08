@@ -1,0 +1,14 @@
+/home/cesium/projects/linq/bin/Debug/net8.0/linq
+/home/cesium/projects/linq/bin/Debug/net8.0/linq.deps.json
+/home/cesium/projects/linq/bin/Debug/net8.0/linq.runtimeconfig.json
+/home/cesium/projects/linq/bin/Debug/net8.0/linq.dll
+/home/cesium/projects/linq/bin/Debug/net8.0/linq.pdb
+/home/cesium/projects/linq/obj/Debug/net8.0/linq.GeneratedMSBuildEditorConfig.editorconfig
+/home/cesium/projects/linq/obj/Debug/net8.0/linq.AssemblyInfoInputs.cache
+/home/cesium/projects/linq/obj/Debug/net8.0/linq.AssemblyInfo.cs
+/home/cesium/projects/linq/obj/Debug/net8.0/linq.csproj.CoreCompileInputs.cache
+/home/cesium/projects/linq/obj/Debug/net8.0/linq.dll
+/home/cesium/projects/linq/obj/Debug/net8.0/refint/linq.dll
+/home/cesium/projects/linq/obj/Debug/net8.0/linq.pdb
+/home/cesium/projects/linq/obj/Debug/net8.0/linq.genruntimeconfig.cache
+/home/cesium/projects/linq/obj/Debug/net8.0/ref/linq.dll
